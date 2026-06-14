@@ -1,0 +1,5 @@
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+    "langgraph>=1.2.5",
+]
