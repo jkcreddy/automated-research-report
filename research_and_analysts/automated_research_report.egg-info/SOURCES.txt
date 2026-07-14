@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+research_and_analysts/automated_research_report.egg-info/PKG-INFO
+research_and_analysts/automated_research_report.egg-info/SOURCES.txt
+research_and_analysts/automated_research_report.egg-info/dependency_links.txt
+research_and_analysts/automated_research_report.egg-info/requires.txt
+research_and_analysts/automated_research_report.egg-info/top_level.txt

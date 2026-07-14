@@ -1,2 +1,15 @@
 .venv
 .env
+logs/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.env
+.DS_Store
+.vscode/
+.idea/
