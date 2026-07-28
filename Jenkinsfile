@@ -80,7 +80,7 @@ pipeline {
                 script {
                     echo 'Running tests...'
                     sh '''
-                        python3 -c "from research_and_analyst.api.main import app; print('✅ Imports successful')"
+                        python3 -c "from research_and_analysts.api.main import app; print('✅ Imports successful')"
                     '''
                 }
             }
